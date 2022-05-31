@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abilash 
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning HTML, CSS, Javascript, Python Django and React framework
+- 🌱 I’m currently learning HTML, CSS, Javascript, Python Django and js framework
 
 <!---
 mahaabi01/mahaabi01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
