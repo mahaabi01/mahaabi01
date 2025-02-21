@@ -33,8 +33,7 @@ I'm a passionate developer with a strong interest in **web development**, **mach
 - **Concepts**: Regression, Classification, Clustering, Deep Learning (CNNs, RNNs)
 
 ### 📊 **Data Visualization**
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=plotly&logoColor=white&style=flat) ![Seaborn](https://img.shields.io/badge/-Seaborn-008080?logo=python&logoColor=white&style=flat) ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white&style=flat) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat)
-
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=plotly&logoColor=white&style=flat) ![Seaborn](https://img.shields.io/badge/-Seaborn-008080?logo=python&logoColor=white&style=flat) ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white&style=flat) 
 ---
 
 ## **📬 Let's Connect!**
@@ -43,4 +42,3 @@ If you're passionate about **web development**, **AI/ML**, or want to collaborat
 💬 **Drop a message:**  [mahaabi01@gmail.com](mailto:mahaabi01@gmail.com)  
 🌍 **Follow my work:**  [GitHub](https://github.com/mahaabi01) | [LinkedIn](https://linkedin.com/in/mahaabi01)
 
-🚀 **Happy Coding!** 😊
